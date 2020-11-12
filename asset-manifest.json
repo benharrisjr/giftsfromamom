@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/giftsfromamom/static/css/main.e38a4fd2.chunk.css",
-    "main.js": "/giftsfromamom/static/js/main.a054556a.chunk.js",
-    "main.js.map": "/giftsfromamom/static/js/main.a054556a.chunk.js.map",
+    "main.js": "/giftsfromamom/static/js/main.ec605546.chunk.js",
+    "main.js.map": "/giftsfromamom/static/js/main.ec605546.chunk.js.map",
     "runtime-main.js": "/giftsfromamom/static/js/runtime-main.00ccdbd9.js",
     "runtime-main.js.map": "/giftsfromamom/static/js/runtime-main.00ccdbd9.js.map",
     "static/css/2.4ee2f7a8.chunk.css": "/giftsfromamom/static/css/2.4ee2f7a8.chunk.css",
@@ -25,6 +25,6 @@
     "static/css/2.4ee2f7a8.chunk.css",
     "static/js/2.cf24fb7c.chunk.js",
     "static/css/main.e38a4fd2.chunk.css",
-    "static/js/main.a054556a.chunk.js"
+    "static/js/main.ec605546.chunk.js"
   ]
 }
