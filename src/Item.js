@@ -8,7 +8,7 @@ const Item = (props) => {
         backgroundColor: '#fff',
         borderRadius: '12px',
       }}>
-        <div dangerouslySetInnerHTML={{__html: props.link.imageLink }} />
+        <div style={{ minHeight: '163px'}} dangerouslySetInnerHTML={{__html: props.link.imageLink }} />
         <h3
           style={{
             textAlign: 'center',

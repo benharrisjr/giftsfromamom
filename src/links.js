@@ -336,14 +336,14 @@ const affLinks = [
     description: "I got this for my husband last year because in addition to home improvement attempts, he's been getting very into woodworking and buidling things.  He hasn't had much time on his hands but this is a really good saw for the prices.  The cost of these saws can vary dramatically, but after reading a lot of reviews and being very happy with other Dewald items I've purchased in the past, I decided to go with this one.",
     imageLink: '<a href="https://www.amazon.com/dp/B07P8QTFRC/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li2&tag=kaylaspicks-20&linkId=b4bc07f3b4da931a78aa6d10d80dddba&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07P8QTFRC&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B07P8QTFRC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
     shortLink: 'https://amzn.to/35qenXz',
-    tags: ['tools','gift','christmas','dad','parent'],
+    tags: ['tools','gift','christmas','dad','adult'],
   },
   {
     title: "Birth Stone Earrings",
     description: "If you're struggling to pick a gift for a mom or a grandma, and they have their ears pierced, get them earrings of the birth stone(s) of their children or grandchildren.  If you are my husband, please get me these for Christmas!  As a mom, sometimes I just want to subtly wear something that represents my daughter.",
     imageLink: '<a href="https://www.amazon.com/dp/B01HTF8XVQ/ref=as_li_ss_il?_encoding=UTF8&th=1&linkCode=li2&tag=kaylaspicks-20&linkId=7efe2bf5b2f6a585f533453cece63ce8&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01HTF8XVQ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B01HTF8XVQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
     shortLink: 'https://amzn.to/36ukZDt',
-    tags: ['christmas','mom','jewlery','parent'],
+    tags: ['christmas','mom','jewlery','adult'],
   },
   {
     title: "Play-Doh",
@@ -371,7 +371,7 @@ const affLinks = [
     description: "Instruments are a very personal choice. HOWEVER, I recommend this gift for someone who has tried to pick up the guitar, but never quite got it.  I tried to learn the guitar for 20 years on and off and I just never got it.  I decided to buy a ukulele during quarantine and I picked it up enough to play my first song on day two.  It was so much easier and therefore fun.  I did a lot of research and I found this to be a great choice for a beginner on a budget without sacrificing sound quality.  If you need to buy for a music fan, or someone who needs a new hobbie, this might be a fun thing for them to try.",
     imageLink: '<a href="https://www.amazon.com/gp/product/B083XRB3PM/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li2&tag=kaylaspicks-20&linkId=0922169b9f66dca8bf7399f77f94e2bf&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B083XRB3PM&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B083XRB3PM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
     shortLink: 'https://amzn.to/2UgXyb9',
-    tags: ['parent','gift','christmas','music'],
+    tags: ['adult','gift','christmas','music'],
   },
   {
     title: "Burrito Blanket",

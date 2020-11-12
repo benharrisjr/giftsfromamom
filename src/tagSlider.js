@@ -27,7 +27,7 @@ const categories = [
   },
   {
     title: 'Adults',
-    tag: 'parent',
+    tag: 'adult',
   },
 ]
 class TagSlider extends React.Component {
