@@ -8,7 +8,10 @@ class Content extends React.Component {
   state = {}
   
   render() {
-    const filteredItems = affLinks.filter((item) => item.tags.includes(this.props.currentCategory));
+    let filteredItems = affLinks;
+    if (this.props.currentCategory !== 'all') {
+      filteredItems = affLinks.filter((item) => item.tags.includes(this.props.currentCategory));
+    } 
     console.log(filteredItems);
     return (
       <Row>

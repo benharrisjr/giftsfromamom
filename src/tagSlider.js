@@ -29,6 +29,10 @@ const categories = [
     title: 'Adults',
     tag: 'adult',
   },
+  {
+    title: 'Show me Everything!',
+    tag: 'all',
+  },
 ]
 class TagSlider extends React.Component {
   handleCategoryClick = (category) => {
@@ -37,7 +41,7 @@ class TagSlider extends React.Component {
   render() {
     return (
       <React.Fragment>
-        <div style={{ padding: '10px 20px 0 20px', fontFamily: 'Hibernate', color: '#e8115d', fontSize: '30px', textAlign: 'left' }}>Gift ideas for:</div>
+        <div style={{ padding: '10px 20px 0 20px', fontFamily: 'Cookie', color: '#e8115d', fontSize: '30px', textAlign: 'left' }}>Gift ideas for:</div>
         <div className='slider-container'>
           { categories.map((category, i) => <button key={i} onClick={() => this.handleCategoryClick(category.tag)} className='slider-card' style={category.tag === this.props.currentCategory ? activeNavSliderStyle : navSliderStyle}>{category.title}</button>)}
         </div>

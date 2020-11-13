@@ -17,7 +17,7 @@ const Item = (props) => {
           }}>
           <a style={{ textDecoration: 'none' }} href={props.link.shortLink}>{props.link.title}</a>
         </h3>
-        <div style={{ textAlign: 'left' }}>{props.link.description}</div>
+        <div style={{ textAlign: 'left' }} dangerouslySetInnerHTML={{__html: props.link.description }}></div>
       </div>
     </React.Fragment>
   );  
