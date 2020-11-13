@@ -1,18 +1,16 @@
-import React from 'react';
-import navPic from './goofynoellemommy.jpg';
+import { Link } from "react-router-dom";
 import header from './images/header.png';
-import hamburger from './hamburger.svg';
 
-class Nav extends React.Component {
-  render() {
-    return (
-      <nav>
-        <div style={{ margin: 'auto', paddingBottom: '20px', backgroundColor: '#f191a5' }}>
+const Nav = () => {
+  return (
+    <nav>
+      <div style={{ margin: 'auto', paddingBottom: '20px', backgroundColor: '#f191a5' }}>
+        <Link to="/">
           <img style={{ position: 'relative', left: '-10px'}} alt="Title icon" src={header}></img>
-        </div>
-      </nav>
-    );
-  }
+        </Link>
+      </div>
+    </nav>
+  );
 }
 
 export default Nav;
