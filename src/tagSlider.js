@@ -6,7 +6,7 @@ import close from './images/close-light.png';
 
 
 const navSliderStyle = {
-  background: '#cbede5',
+  background: 'rgba(209, 244, 236, 0.5)',
   border: 'none',
   padding: '12px 24px',
   display: 'inline-block',
@@ -47,10 +47,6 @@ const categories = [
     title: 'Adults',
     tag: 'adult',
   },
-  {
-    title: 'Show me Everything!',
-    tag: 'all',
-  },
 ]
 class TagSlider extends React.Component {
   state = {
@@ -65,28 +61,30 @@ class TagSlider extends React.Component {
   render() {
     return (
       <React.Fragment>
-        <Grid style={{marginTop: '12px' }}>
-          <Row middle="xs">
-            <Col xs={2}>
-              <button style={{ background: '#f191a5', border: 'none', borderRadius: '6px' }} onClick={this.handleNavClick}>
-                <img style={{ position: 'relative', top: '2px', padding: '6px'}} alt="menu" src={hamburger} ></img>
-              </button>
-            </Col>
-            <Col xs={8}>
-              <div style={{ padding: '10px 20px 0 20px', fontFamily: 'Cookie', color: '#e8115d', fontSize: '30px', textAlign: 'left' }}>
-                Gift ideas for:
-              </div>
-            </Col>
-            {/* <Col xs={6}>
-              <div style={{ padding: '10px 20px 0 20px', color: '#e8115d', textAlign: 'right' }}>
-                <Link to="/about">About us</Link>
-              </div>
-            </Col> */}
-          </Row>
-        </Grid>
-        <div className='slider-container'>
-          { categories.map((category, i) => <button key={i} onClick={() => this.handleCategoryClick(category.tag)} className='slider-card' style={category.tag === this.props.currentCategory ? activeNavSliderStyle : navSliderStyle}>{category.title}</button>)}
-        </div>
+        <Row middle="xs" style={{ background: 'rgba(209, 244, 236, 0.5)', height: '60px', overflow: 'hidden' }}>
+          {/* <Col xs={2} md={1}>
+            <button style={{ background: '#f191a5', border: 'none', borderRadius: '6px' }} onClick={this.handleNavClick}>
+              <img style={{ position: 'relative', top: '2px', padding: '6px'}} alt="menu" src={hamburger} ></img>
+            </button>
+          </Col> */}
+          {/* <Col xs={8} md={3}>
+            <div style={{ padding: '10px 20px 0 20px', fontFamily: 'Cookie', color: '#e8115d', fontSize: '50px', textAlign: 'left' }}>
+              Gift ideas for:
+            </div>
+          </Col> */}
+          <Col>
+            <div className='slider-container'>
+              <button className="slider-card" style={{background: 'none', border: 'none'}}><Link style={{ padding: '12px 24px', textDecoration: 'none' }} to="/about">About Us</Link></button>
+              { categories.map((category, i) => <button key={i} onClick={() => this.handleCategoryClick(category.tag)} className='slider-card' style={category.tag === this.props.currentCategory ? activeNavSliderStyle : navSliderStyle}>{category.title}</button>)}
+              <button onClick={() => this.handleCategoryClick('all')} className='slider-card' style={this.props.currentCategory === 'all' ? activeNavSliderStyle : navSliderStyle}>Show me everything!</button>
+            </div>
+          </Col>
+          {/* <Col xs={6}>
+            <div style={{ padding: '10px 20px 0 20px', color: '#e8115d', textAlign: 'right' }}>
+              <Link to="/about">About us</Link>
+            </div>
+          </Col> */}
+        </Row>
         {this.state.navVisible && 
           <div className="slide-in-left" style={navMenuStyle}>
             <ul

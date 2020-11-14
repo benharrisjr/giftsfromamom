@@ -8,19 +8,34 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 h1 {
-  font-size: 36px;
+  font-size: 35px !important;
+  color: white;
 }
 h2 {
   font-size: 30px;
 }
 h1, h2 {
-  font-family: Amatic;
+  font-family: ILoveChristmas;
 }
 h3 {
   margin: 0;
 }
 a {
   color: #222;
+}
+.header-background {
+  margin: auto;
+  background: url("../images/header.png");
+  height: 200px;
+  width: 100%;
+  background-size: 80%;
+  background-position: center
+}
+@media (max-width: 400px) {
+  .header-background {
+    height: 100px;
+    background-size: 150%;
+  }
 }
 .center {
   margin: auto;
@@ -71,7 +86,8 @@ a {
 }
 .legal {
   text-align: center;
-  font-size: 10px;
+  font-size: 12px;
+  padding: 20px;
 }
 .blm {
   text-align: center;
@@ -104,16 +120,16 @@ a {
   display: flex;
   overflow-x: scroll;
   width: 100%;
-  background-color: #fff;
   left: 0;
-  padding-top: 10px;
 }
 
 .slider-card {
   flex-shrink: 0;
-  height: 50px;
-  border-radius: 10px;
-  margin-left: 10px;
+  height: 60px;
+  /* border-radius: 10px;
+  margin-left: 10px; */
+  font-family:QuattrocentoSans;
+  font-size: 20px;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;

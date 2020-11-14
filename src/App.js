@@ -38,12 +38,17 @@ class App extends React.Component {
               <Route path="/:id">
                 <TagSlider changeCategory={this.changeCategory} currentCategory={this.state.currentCategory}></TagSlider>
                 <Content changeCategory={this.changeCategory} currentCategory={this.state.currentCategory}></Content>
+                <div class="legal">As an Amazon affiliate I may earn from qualifying purchases.</div>
               </Route>
               <Route path="/">
                 <TagSlider changeCategory={this.changeCategory} currentCategory={this.state.currentCategory}></TagSlider>
                 <Content changeCategory={this.changeCategory} currentCategory={this.state.currentCategory}></Content>
+                <div class="legal">As an Amazon affiliate I may earn from qualifying purchases.</div>
               </Route>
             </Switch>
+            <footer>
+              <div>Icons made by <a href="https://www.flaticon.com/authors/vectors-market" title="Vectors Market">Vectors Market</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+            </footer>
           </Grid>
         </div>
       </Router>

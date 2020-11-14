@@ -14,3 +14,27 @@
   font-family: Cookie;
   src: url(../fonts/Cookie-Regular.ttf);
 }
+@font-face {
+  font-family: BigShoulders;
+  src: url(../fonts/BigShouldersInlineText-SemiBold.ttf);
+}
+@font-face {
+  font-family: Oxygen;
+  src: url(../fonts/Oxygen-Light.ttf);
+}
+@font-face {
+  font-family: QuattrocentoSans;
+  src: url(../fonts/QuattrocentoSans-Regular.ttf);
+}
+@font-face {
+  font-family: Manrope;
+  src: url(../fonts/Manrope-VariableFont_wght.ttf);
+}
+@font-face {
+  font-family: ILoveChristmas;
+  src: url(../fonts/ILoveChristmas.ttf);
+}
+@font-face {
+  font-family: PWChristmas;
+  src: url(../fonts/PWChristmasfont.ttf);
+}

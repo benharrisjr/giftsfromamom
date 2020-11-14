@@ -50,7 +50,7 @@ class About extends React.Component {
           </div>
         </Row>
         <Row center="xs">
-          <div class="legal">As an Amazon affiliate we may earn from qualifying purchases.</div>
+          <div class="legal">As an Amazon affiliate I may earn from qualifying purchases.</div>
         </Row>
       </React.Fragment>
     );  

@@ -6,19 +6,17 @@ import affLinks from './links';
 import Item from './Item';
 
 const Content = (props) => {
-  const { id } = useParams();
-  console.log(id);
   let filteredItems = affLinks;
   if (props.currentCategory !== 'all') {
-    const selectedTag = id ? id : props.currentCategory;
-    filteredItems = affLinks.filter((item) => item.tags.includes(selectedTag));
+    filteredItems = affLinks.filter((item) => item.tags.includes(props.currentCategory));
   }
   console.log(filteredItems);
   return (
-    <Row>
-      {filteredItems.map((currentLink, i) => <Col xs={12} md={6} lg={4} key={i}><Item link={currentLink} /></Col>)}
+    <Row style={{ borderRight: '2px solid #f1a9a5',}}>
+      {filteredItems.map((currentLink, i) => <Col style={{ borderBottom: '2px solid #f1a9a5', borderLeft: '2px solid #f1a9a5' }} xs={12} md={6} lg={4} key={i}><Item link={currentLink} /></Col>)}
     </Row>
   );  
+  
 }
 
 export default Content;

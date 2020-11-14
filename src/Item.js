@@ -5,14 +5,14 @@ const Item = (props) => {
     <React.Fragment>
       <div style={{
         margin: '20px',
-        backgroundColor: '#fff',
-        borderRadius: '12px',
+        backgroundColor: '#fff'
       }}>
         <div style={{ minHeight: '163px'}} dangerouslySetInnerHTML={{__html: props.link.imageLink }} />
         <h3
           style={{
             textAlign: 'center',
             fontSize: '30px',
+            fontFamily: 'QuattrocentoSans',
             padding: '10px 0'
           }}>
           <a style={{ textDecoration: 'none' }} href={props.link.shortLink}>{props.link.title}</a>
