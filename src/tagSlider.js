@@ -15,6 +15,7 @@ const navSliderStyle = {
 const activeNavSliderStyle = {
   background: '#e8115d',
   color: '#fff',
+  textDecoration: 'none',
   border: 'none',
   padding: '12px 24px',
   display: 'inline-block',
@@ -32,6 +33,13 @@ const navLink = {
   textDecoration: 'none',
   padding: '12px',
   display: 'inline-block',
+}
+const linkTag = {
+  textDecoration: 'none',
+}
+const activeLinkTag = {
+  textDecoration: 'none',
+  color: '#fff',
 }
 const categories = [
   {
@@ -61,30 +69,35 @@ class TagSlider extends React.Component {
   render() {
     return (
       <React.Fragment>
-        <Row middle="xs" style={{ background: 'rgba(209, 244, 236, 0.5)', height: '60px', overflow: 'hidden' }}>
-          {/* <Col xs={2} md={1}>
-            <button style={{ background: '#f191a5', border: 'none', borderRadius: '6px' }} onClick={this.handleNavClick}>
-              <img style={{ position: 'relative', top: '2px', padding: '6px'}} alt="menu" src={hamburger} ></img>
-            </button>
-          </Col> */}
-          {/* <Col xs={8} md={3}>
-            <div style={{ padding: '10px 20px 0 20px', fontFamily: 'Cookie', color: '#e8115d', fontSize: '50px', textAlign: 'left' }}>
-              Gift ideas for:
-            </div>
-          </Col> */}
-          <Col>
-            <div className='slider-container'>
-              <button className="slider-card" style={{background: 'none', border: 'none'}}><Link style={{ padding: '12px 24px', textDecoration: 'none' }} to="/about">About Us</Link></button>
-              { categories.map((category, i) => <button key={i} onClick={() => this.handleCategoryClick(category.tag)} className='slider-card' style={category.tag === this.props.currentCategory ? activeNavSliderStyle : navSliderStyle}>{category.title}</button>)}
-              <button onClick={() => this.handleCategoryClick('all')} className='slider-card' style={this.props.currentCategory === 'all' ? activeNavSliderStyle : navSliderStyle}>Show me everything!</button>
-            </div>
-          </Col>
-          {/* <Col xs={6}>
-            <div style={{ padding: '10px 20px 0 20px', color: '#e8115d', textAlign: 'right' }}>
-              <Link to="/about">About us</Link>
-            </div>
-          </Col> */}
-        </Row>
+        <div style={{ background: 'rgba(209, 244, 236, 0.5)', height: '60px', overflow: 'hidden' }}>
+          <Grid>
+            <Row middle="xs">
+              {/* <Col xs={2} md={1}>
+                <button style={{ background: '#f191a5', border: 'none', borderRadius: '6px' }} onClick={this.handleNavClick}>
+                  <img style={{ position: 'relative', top: '2px', padding: '6px'}} alt="menu" src={hamburger} ></img>
+                </button>
+              </Col> */}
+              {/* <Col xs={8} md={3}>
+                <div style={{ padding: '10px 20px 0 20px', fontFamily: 'Cookie', color: '#e8115d', fontSize: '50px', textAlign: 'left' }}>
+                  Gift ideas for:
+                </div>
+              </Col> */}
+              <Col>
+                <div className='slider-container'>
+                  <button onClick={() => this.handleCategoryClick('about')} className="slider-card" style={this.props.currentCategory === 'about' ? activeNavSliderStyle : navSliderStyle}><Link style={this.props.currentCategory === 'about' ? activeLinkTag : linkTag} to="/about">About Us</Link></button>
+                  { categories.map((category, i) => <button key={i} onClick={() => this.handleCategoryClick(category.tag)} className='slider-card' style={category.tag === this.props.currentCategory ? activeNavSliderStyle : navSliderStyle}><Link style={category.tag === this.props.currentCategory ? activeLinkTag : linkTag} to={`/${category.tag}`}>{category.title}</Link></button>)}
+                  <button onClick={() => this.handleCategoryClick('all')} className='slider-card' style={this.props.currentCategory === 'all' ? activeNavSliderStyle : navSliderStyle}>Show me everything!</button>
+                </div>
+              </Col>
+              {/* <Col xs={6}>
+                <div style={{ padding: '10px 20px 0 20px', color: '#e8115d', textAlign: 'right' }}>
+                  <Link to="/about">About us</Link>
+                </div>
+              </Col> */}
+            </Row>
+          </Grid>
+        </div>
+        
         {this.state.navVisible && 
           <div className="slide-in-left" style={navMenuStyle}>
             <ul
