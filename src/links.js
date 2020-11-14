@@ -153,7 +153,7 @@ const affLinks = [
     description: "This is a must if your child steals your remote control and loses it daily. We got this for Noelle as a distraction when she was a baby because she loves to push the buttons. It sings some ridiculous songs and is really weird but we love it because of that. Lol",
     imageLink: '<a href="https://www.amazon.com/gp/product/B07FK7B1BY/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li2&tag=kaylaspicks-20&linkId=9ee9720d1d5033a3d44ff9b4d8ee2778&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07FK7B1BY&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B07FK7B1BY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
     shortLink: 'https://amzn.to/2Uit6NK',
-    tags: ['baby','toy','christmas'],
+    tags: ['toddler','baby','toy','christmas'],
   },
   {
     title: "Toy Organizer",
@@ -167,7 +167,7 @@ const affLinks = [
     description: "If you're a millenial with a teething baby, this is awesome! Seeing this teether laying around my house really brings back memories. The original Super Mario Brothers is still my favorite video game.",
     imageLink: '<a href="https://www.amazon.com/gp/product/B01M5IW4EO/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li2&tag=kaylaspicks-20&linkId=dcf5094bb8a97e644f79bc95bbf25119&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01M5IW4EO&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B01M5IW4EO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
     shortLink: 'https://amzn.to/2Ujsw2m',
-    tags: ['baby','stocking','teether'],
+    tags: ['toddler','baby','stocking','teether'],
   },
   {
     title: "Melissa and Doug Cleaning Set",
