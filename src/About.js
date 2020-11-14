@@ -41,7 +41,7 @@ class About extends React.Component {
             </div>
             <div style={{ marginBottom: '40px' }}>
               <h3 style={{ marginBottom: '8px' }}>Submit Your Favorite Gift Ideas</h3>
-              <p style={{ marginTop: '8px' }}>If you'd like to submit a gift idea, send an email to nokaylasherebusiness@gmail.com with a link to the item, a description of why you like it, who it would be a good gift for, and your name to be featured with the item if we are able to post it!   </p>
+              <p style={{ marginTop: '8px' }}>If you'd like to submit a gift idea, send an email to <a href="mailto:nokaylasherebusiness@gmail.com">nokaylasherebusiness@gmail.com</a> with a link to the item, a description of why you like it, who it would be a good gift for, and your name to be featured with the item if we are able to post it!   </p>
               
             </div>
           </Col>
