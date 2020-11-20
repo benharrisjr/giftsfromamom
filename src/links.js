@@ -3,7 +3,7 @@ const affLinks = [
  
   {
     title: "Scooter",
-    description: "Noelle is pretty adventurous and I thought this would be a fun way to learn to balance. I got her a helmet and pads last year that we'll use with it!",
+    description: "Our daughter, Noelle is pretty adventurous and I thought this would be a fun way to learn to balance. I got her a helmet and pads last year that we'll use with it!",
     imageLink: '<a href="https://www.amazon.com/gp/product/B07TBR5S6B/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li2&tag=kaylaspicks-20&linkId=d0837c5806b3f6f308926952e2b3f46d&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07TBR5S6B&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B07TBR5S6B" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
     shortLink: 'https://amzn.to/2GlIFRt',
     tags: ['christmas','gift','toddler','fun','outdoor'],
@@ -492,8 +492,84 @@ const affLinks = [
     shortLink: 'https://amzn.to/2K6Rkc5',
     tags: ['toddler','gift','christmas','kid'],
   },
-  
-
+  {
+    title: "Dewalt Drill",
+    description: "We have had this drill for a few years and it's way more powerful than any other drill we've ever had.  It's a good gift for someone with a new home, or anyone looking for a new drill.",
+    imageLink: '<a href="https://www.amazon.com/Dewalt-DCD771C2-Cordless-Lithium-Ion-Compact/dp/B00ET5VMTU/ref=as_li_ss_il?dchild=1&keywords=drill+dewalt&qid=1605403835&sr=8-1&linkCode=li2&tag=kaylaspicks-20&linkId=e344612a6f1ae4c4cd85a5a853032f21&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ET5VMTU&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B00ET5VMTU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
+    shortLink: 'https://amzn.to/38KqrEM',
+    tags: ['adult','gift'],
+  },
+  {
+    title: "Reciprocating Saw",
+    description: "My husband say this is the most useful saw he owns because it can help with DIY and demo.  It's a saw we didn't have right away when we bought our home, but quickly found ourselves needing.  ",
+    imageLink: '<a href="https://www.amazon.com/DEWALT-Reciprocating-Saw-10-Amp-DWE304/dp/B00ODN1CP2/ref=as_li_ss_il?ac_md=4-0-VW5kZXIgJDEwMA==-ac_d_pm&cv_ct_cx=reciprocating+saw+dewalt&dchild=1&keywords=reciprocating+saw+dewalt&pd_rd_i=B00ODN1CP2&pd_rd_r=f03a8577-693b-423b-8992-14170835f16a&pd_rd_w=8opNw&pd_rd_wg=2vmFZ&pf_rd_p=68f25c26-6854-442e-9296-f746545e76bb&pf_rd_r=9P6DB74J78EDX12QNKVY&psc=1&qid=1605404234&sr=1-1-22d05c05-1231-4126-b7c4-3e7a9c0027d0&linkCode=li2&tag=kaylaspicks-20&linkId=470f02ba2b79e2ca5afeb9c23a237070&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ODN1CP2&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B00ODN1CP2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
+    shortLink: 'https://amzn.to/32MLym9',
+    tags: ['adult','gift'],
+  },
+  {
+    title: "Magna-tiles",
+    description: "My daughter's not old enough for these yet but I've heard a lot of moms say that these things can keep their kids occupied for hours.",
+    imageLink: '<a href="https://www.amazon.com/Magna-Tiles-Metropolis-Award-Winning-Educational/dp/B07WDDB59W/ref=as_li_ss_il?dchild=1&keywords=magnetiles&qid=1605404664&sr=8-6&linkCode=li2&tag=kaylaspicks-20&linkId=0ac0deddfc11969529a6e53fc23d37cb&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07WDDB59W&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B07WDDB59W" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
+    shortLink: 'https://amzn.to/36Fm1MK',
+    tags: ['kid','gift'],
+  },
+  {
+    title: "Ball Darts",
+    description: "I actually had one of these as a kid and I can't believe they still make them! It's a safe alternative to darts.",
+    imageLink: '<a href="https://www.amazon.com/YESMARKS-Board-Sticky-Inches-Dartboard/dp/B07NMKC7F4/ref=as_li_ss_il?dchild=1&keywords=kids+gifts&qid=1605404775&sr=8-47&linkCode=li2&tag=kaylaspicks-20&linkId=83d71beff88bb4fa4f1e9e2e16ba6cea&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07NMKC7F4&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B07NMKC7F4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
+    shortLink: 'https://amzn.to/2H5BUUc',
+    tags: ['kid','gift'],
+  },
+  {
+    title: "Paint by Sticker",
+    description: "When I was a kid stickers, and color by number were my favorites.  I'm literally about to order this for myself because this looks so fun. I did not know this existed until today.",
+    imageLink: '<a href="https://www.amazon.com/Paint-Sticker-Kids-Animals-Pictures/dp/0761189602/ref=as_li_ss_il?dchild=1&keywords=kids+gifts&qid=1605404775&sr=8-54&linkCode=li2&tag=kaylaspicks-20&linkId=7553d2fc3a58f89d2e3b90bb0df71100&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0761189602&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=0761189602" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
+    shortLink: 'https://amzn.to/3kFLQlb',
+    tags: ['toddler','gift','christmas','kid'],
+  },
+  {
+    title: "Magnetic Wrist Band",
+    description: "This is probably one of the most successful stocking stuffers I ever gave.  I have been guilty of holding nails in my mouth while hanging a picture which is definitely a bad idea.  This wrist band (I gave one to my husband, my dad, my step-dad, and all of my uncles) has been such an unexpected help during many projects.",
+    imageLink: '<a href="https://www.amazon.com/MagnoGrip-311-090-Magnetic-Wristband/dp/B000WU9LCQ/ref=as_li_ss_il?dchild=1&keywords=stocking+stuffer&qid=1605405929&sr=8-61&linkCode=li2&tag=kaylaspicks-20&linkId=38dd7e9ea7ef3d50806e489c03c46ea5&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000WU9LCQ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B000WU9LCQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
+    shortLink: 'https://amzn.to/2JZkvgT',
+    tags: ['adult','stocking','gift'],
+  },
+  {
+    title: "Door Opener Tool",
+    description: "I think these days most people are trying to avoid touching doors and keypads.  I ordered this two pack for my husband and I but it's the pefect size to put into a stocking! ",
+    imageLink: '<a href="https://www.amazon.com/gp/product/B08FRQXTHL/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li2&tag=kaylaspicks-20&linkId=a8a2e6299ae88a120b742289250be927&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08FRQXTHL&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B08FRQXTHL" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
+    shortLink: 'https://amzn.to/3kEqEvS',
+    tags: ['adult','stocking'],
+  },
+  {
+    title: "Drill Extender",
+    description: "If you have ever tried to screw something in in a tight space and the drill wouldn't fit into the space, this is what you need.  I bought this for my husband last Christmas but I think I've used it more than him.  I was pretty surprised at how well it works.  I got one for my dad also. ",
+    imageLink: '<a href="https://www.amazon.com/gp/product/B07KWVXDY4/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li2&tag=kaylaspicks-20&linkId=58750cdc5f506ee9ef41dd827451f343&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07KWVXDY4&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B07KWVXDY4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
+    shortLink: 'https://amzn.to/3lyYDXB',
+    tags: ['adult','stocking'],
+  },
+  {
+    title: "Wireless Charger",
+    description: "We had another wireless charger but the light stayed on the entire time the phone was charging and since we charge our phones next to our beds, it was not working out.  After a lot of searching, we found this charger that does not stay lit while charging.  It works really well and we've had it for about a year.",
+    imageLink: '<a href="https://www.amazon.com/dp/B079KZ49PJ/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=kaylaspicks-20&linkId=193cfbc5fc74468f1554c59463001735&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B079KZ49PJ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B079KZ49PJ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
+    shortLink: 'https://amzn.to/2UvxYzb',
+    tags: ['adult','stocking'],
+  },
+  {
+    title: "Little Trampoline",
+    description: "Trampolines come with an injury risk, but my toddler jumps on the couch and her bed EVERY CHANCE SHE GETS.  I'd rather her jump somewhere where she's less likely to fall onto the floor from a big height.  We have a large trampoline, but this is the one I was considering before we made that choice.",
+    imageLink: '<a href="https://www.amazon.com/dp/B00AU0O7QI/ref=as_li_ss_il?coliid=I2SQKYL8YACWI8&colid=ZUZN8BTRHWVE&psc=1&ref_=lv_ov_lig_dp_it&linkCode=li2&tag=kaylaspicks-20&linkId=fd3dcdaa1016736bcd2e05a9a8eea381&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00AU0O7QI&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B00AU0O7QI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
+    shortLink: 'https://amzn.to/3lSRcdW',
+    tags: ['toddler'],
+  },
+  {
+    title: "Art Cart",
+    description: "Having a place to organize my kid's art supplies was really one of the best decisions I made.  I have this cart without the organizational inserts and I use it to store all of Noelle's art stuff like crayons, coloring books, construction paper, play-doh, paint, etc.  Before I had a set place to store these thinsg, we rarely used them.  I really want to sure I encourage creativity and don't misplace her art supplies and this cart has really changed the game.  Toddler gifts do not all have to be toys.  This will help you both.",
+    imageLink: '<a href="https://www.amazon.com/alvorog-Rolling-Multifunction-Assembly-Bathroom/dp/B0834WTCCC/ref=as_li_ss_il?dchild=1&keywords=art+cart&qid=1605886960&sr=8-6&linkCode=li2&tag=kaylaspicks-20&linkId=10f30e6cfc1a2bff232c1994daaeed3d&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0834WTCCC&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B0834WTCCC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
+    shortLink: 'https://amzn.to/36SRKdN',
+    tags: ['toddler','kid'],
+  },
+ 
 
 
 ];
