@@ -200,7 +200,7 @@ const affLinks = [
   
   {
     title: "Follow-Me Olaf",
-    description: "I haven't ordered this yet.. but I think I'm about to.  I keep seeing commercials on YouTube for this Olaf doll that follows you around if you shine his flashlight on the floor.  When I shop for toddler gifts I try to think back to how I'd like something when I was little and this just seems so darn cool!!!  Not to mention Noelle's OBSESSED with Frozen.",
+    description: "I ordered this for my daughter for Christmas.  I kept seeing commercials on YouTube for this Olaf doll that follows you around if you shine his flashlight on the floor.  When I shop for toddler gifts I try to think back to how I'd like something when I was little and this just seems so darn cool!  Not to mention Noelle's OBSESSED with Frozen.",
     imageLink: '<a href="https://www.amazon.com/Frozen-Disney-Follow-Me-Friend-Olaf/dp/B07RVBSY57/ref=as_li_ss_il?dchild=1&keywords=follow+me+friend+olaf&qid=1605108453&s=toys-and-games&sr=1-4&linkCode=li2&tag=kaylaspicks-20&linkId=576ce7135fa0ef58cce55438c27b0f3e&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07RVBSY57&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B07RVBSY57" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
     shortLink: 'https://amzn.to/3lm9XGl',
     tags: ['toddler','kid','christmas','toy','doll','disney'],
@@ -480,7 +480,7 @@ const affLinks = [
   },
   {
     title: "Sarcastic Candle",
-    description: "While this is obviously for a very specific type of friendship, it cracked me up! I love a good joke and lavendar is also my favoite scent (besides pine of course!).'",
+    description: "While this is obviously for a very specific type of friendship, it cracked me up! I love a good joke and lavendar is also my favoite scent (besides pine of course!).",
     imageLink: '<a href="https://www.amazon.com/GSPY-Lavender-Scented-Candles-Gifts/dp/B07ZVJ562K/ref=as_li_ss_il?dchild=1&keywords=gifts&qid=1605216389&sr=8-20&linkCode=li2&tag=kaylaspicks-20&linkId=859b52914b696755ca09d3351d37e265&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07ZVJ562K&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B07ZVJ562K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
     shortLink: 'https://amzn.to/36wRQaM',
     tags: ['adult','gift','christmas','funny'],
@@ -569,7 +569,50 @@ const affLinks = [
     shortLink: 'https://amzn.to/36SRKdN',
     tags: ['toddler','kid'],
   },
- 
+  {
+    title: "Nesting Dolls",
+    description: "When I was a kid I absolutely loved my nesting doll.  I was actually just thiking about them recently and decided I want to order a set for my daughter for Christmas.  I thought it was neat that they offer different types of designs now that kids might find fun to play with. ",
+    imageLink: '<a href="https://www.amazon.com/Vingi-Nesting-Matryoshka-Russian-Handmade/dp/B071D7N796/ref=as_li_ss_il?dchild=1&keywords=fairy+nesting+dolls&qid=1605892238&s=toys-and-games&sr=1-7&linkCode=li2&tag=kaylaspicks-20&linkId=bfb43d05af45bc063a2c54eeb89c70da&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B071D7N796&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B071D7N796" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
+    shortLink: 'https://amzn.to/397ppTP',
+    tags: ['toddler','kid'],
+  },
+  {
+    title: "Uno",
+    description: "I'm all about family game night and Uno is one of those games that you can play with all different skill levels.  With covid-19 preventing a lot of families from pursuing trips and outdoor experiences, family game nights are more important than ever!  This is a great game to put in a stocking.",
+    imageLink: '<a href="https://www.amazon.com/Mattel-Games-Customizable-Wild-Cards/dp/B07F6Y4JX4/ref=as_li_ss_il?dchild=1&keywords=uno&qid=1605902188&sr=8-5&linkCode=li2&tag=kaylaspicks-20&linkId=5208b97df1ac71c888ff6a8d059ff78b&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07F6Y4JX4&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B07F6Y4JX4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
+    shortLink: 'https://amzn.to/3fh9pzm',
+    tags: ['kid','experience','stocking'],
+  },
+  {
+    title: "Electric Toothbrush",
+    description: "My 2 year old is not that great at brushing her teeth but this frozen electric toothbrush makes it a lot easier.  At least the electric brush can clean her teeth a little even if she won't let us move the brush back and fourth.  They have a lot of different characters available.  She'll be getting another on in her stocking.  Gifts can be practical!",
+    imageLink: '<a href="https://www.amazon.com/Oral-B-Pro-Health-Battery-Toothbrush-featuring/dp/B01AKGRSCG/ref=as_li_ss_il?dchild=1&keywords=kids+electric+toothbrush+disney&qid=1605902420&sr=8-4&linkCode=li2&tag=kaylaspicks-20&linkId=837e42de1f42d630920304dbd77c8609&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01AKGRSCG&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B01AKGRSCG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
+    shortLink: 'https://amzn.to/3nJqgOA',
+    tags: ['toddler','kid','stocking'],
+  },
+  {
+    title: "Reversible Octopus Plushie",
+    description: "I ordered one of these for Noelle and I'm hoping it wil fit in her stocking.  I've heard these toys are really good for helping kids express their feelings.  One way it's happy, and if you flip it inside out it's sad/mad.  There are a lot of different colors available. ",
+    imageLink: '<a href="https://www.amazon.com/Original-Reversible-Octopus-TeeTurtles-Patented/dp/B07H4K9QYQ/ref=as_li_ss_il?dchild=1&keywords=reversible+octopus+plush&qid=1605913433&s=toys-and-games&sr=1-4&th=1&linkCode=li2&tag=kaylaspicks-20&linkId=d63bbac70d7b4738ec3094b5c66e8241&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07H4K9QYQ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B07H4K9QYQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
+    shortLink: 'https://amzn.to/391hbwd',
+    tags: ['toddler','kid', 'stocking'],
+  },
+  {
+    title: "Stacking Frogs Counting Toy",
+    description: "I really love toys that are educational.  With the colors and the frogs, this seems like a really good way to learn to count.  It's recommended for 3 and up so I'll put this on the list for next year!",
+    imageLink: '<a href="https://www.amazon.com/dp/B08JS2JVCX/ref=as_li_ss_il?coliid=I220CZR9PP0SHX&colid=20GG0NDI117G7&psc=1&ref_=lv_ov_lig_dp_it_im&linkCode=li2&tag=kaylaspicks-20&linkId=511233f3268974c2e42181f6f0db451f&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08JS2JVCX&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B08JS2JVCX" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
+    shortLink: 'https://amzn.to/3lU5aw8',
+    tags: ['toddler','kid'],
+  },
+  {
+    title: "Teeball Batting Tee",
+    description: "My husband picked out the little tikes batting tee but the height doesn't seem to be adjustable.  I thought this would be better for my daughter as she learns to hit the ball.  She can start with the string and then the tee's heigh is adjustable for her to continue to use as she grows.  It's on her Christmas list.",
+    imageLink: '<a href="https://www.amazon.com/dp/B07HJSHT8P/ref=as_li_ss_il?coliid=I3C9UWMRNFOW&colid=20GG0NDI117G7&psc=1&ref_=lv_ov_lig_dp_it&linkCode=li2&tag=kaylaspicks-20&linkId=2cdc7f5483c7e7a8866dae8078924518&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07HJSHT8P&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B07HJSHT8P" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
+    shortLink: 'https://amzn.to/3kS5XfI',
+    tags: ['toddler','kid', 'outdoor'],
+  },
+
+
 
 
 ];
