@@ -605,13 +605,6 @@ const affLinks = [
     tags: ['toddler'],
   },
   {
-    title: "Teeball Batting Tee",
-    description: "My husband picked out the little tikes batting tee but the height doesn't seem to be adjustable.  I thought this would be better for my daughter as she learns to hit the ball.  She can start with the string and then the tee's heigh is adjustable for her to continue to use as she grows.  It's on her Christmas list.",
-    imageLink: '<a href="https://www.amazon.com/dp/B07HJSHT8P/ref=as_li_ss_il?coliid=I3C9UWMRNFOW&colid=20GG0NDI117G7&psc=1&ref_=lv_ov_lig_dp_it&linkCode=li2&tag=kaylaspicks-20&linkId=2cdc7f5483c7e7a8866dae8078924518&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07HJSHT8P&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B07HJSHT8P" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
-    shortLink: 'https://amzn.to/3kS5XfI',
-    tags: ['toddler','kid', 'outdoor'],
-  },
-  {
     title: "Bitty Baby",
     description: "I know they're expensive, but I got a bitty baby for my daughter last year because she really loves dolls.  When I was a kid I loved dolls too and it was near impossible to find clothing and accessories that fit my dolls.  I decided to get my daughter a bitty baby strickly because they make a lot of accessories for them and if she does want to put those things on her wish lists as she grows up, she'll be able to.  It's a really good quality doll and you can find sets at Costco sometimes that come with some clothing and accessories.",
     imageLink: '<a href="https://www.amazon.com/American-Girl-Bitty-Light-Bodysuit/dp/B016BYNW76/ref=as_li_ss_il?dchild=1&keywords=bitty+baby&qid=1606064258&sr=8-1&linkCode=li2&tag=kaylaspicks-20&linkId=4df91cdc0effa3a6d392fe5d10ff58c7&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B016BYNW76&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B016BYNW76" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
@@ -640,8 +633,8 @@ const affLinks = [
     tags: ['toddler'],
   },
   {
-    title: "Pickler Triangle",
-    description: "I've heard a lot of really good things about pickler triangles.  Noelle climbs on everything and it's getting dangerous.  I decided to put the pickler triangle on her wish list because if she has a designated space to climb it should be safer.  I chose this one because it can fold to be put away.  We have limited space and knowing that I will be able to flatten it to put in her closet is what we need.",
+    title: "Pikler Triangle",
+    description: "I've heard a lot of really good things about pikler triangles.  Noelle climbs on everything and it's getting dangerous.  I decided to put the pikler triangle on her wish list because if she has a designated space to climb it should be safer.  I chose this one because it can fold to be put away.  We have limited space and knowing that I will be able to flatten it to put in her closet is what we need.",
     imageLink: '<a href="https://www.amazon.com/CASSARO-Large-Foldable-Climbing-Triangle/dp/B08KJKJ36D/ref=as_li_ss_il?dchild=1&keywords=pikler&qid=1606066354&sr=8-19&linkCode=li2&tag=kaylaspicks-20&linkId=a27454bbb84f9b762aaa5b5290e338ce&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08KJKJ36D&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B08KJKJ36D" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
     shortLink: 'https://amzn.to/35RKKhJ',
     tags: ['toddler'],
