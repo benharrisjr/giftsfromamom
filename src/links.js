@@ -333,7 +333,7 @@ const affLinks = [
   },
   {
     title: "Dewalt Miter Saw",
-    description: "I got this for my husband last year because in addition to home improvement attempts, he's been getting very into woodworking and buidling things.  He hasn't had much time on his hands but this is a really good saw for the prices.  The cost of these saws can vary dramatically, but after reading a lot of reviews and being very happy with other Dewald items I've purchased in the past, I decided to go with this one.",
+    description: "I got this for my husband last year because in addition to home improvement attempts, he's been getting very into woodworking and buidling things.  He hasn't had much time on his hands but this is a really good saw for the prices.  The cost of these saws can vary dramatically, but after reading a lot of reviews and being very happy with other Dewalt items I've purchased in the past, I decided to go with this one.",
     imageLink: '<a href="https://www.amazon.com/dp/B07P8QTFRC/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li2&tag=kaylaspicks-20&linkId=b4bc07f3b4da931a78aa6d10d80dddba&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07P8QTFRC&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B07P8QTFRC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
     shortLink: 'https://amzn.to/35qenXz',
     tags: ['tools','gift','christmas','dad','adult'],
@@ -525,7 +525,7 @@ const affLinks = [
     description: "When I was a kid stickers, and color by number were my favorites.  I'm literally about to order this for myself because this looks so fun. I did not know this existed until today.",
     imageLink: '<a href="https://www.amazon.com/Paint-Sticker-Kids-Animals-Pictures/dp/0761189602/ref=as_li_ss_il?dchild=1&keywords=kids+gifts&qid=1605404775&sr=8-54&linkCode=li2&tag=kaylaspicks-20&linkId=7553d2fc3a58f89d2e3b90bb0df71100&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0761189602&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=0761189602" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
     shortLink: 'https://amzn.to/3kFLQlb',
-    tags: ['toddler','gift','christmas','kid'],
+    tags: ['gift','christmas','kid'],
   },
   {
     title: "Magnetic Wrist Band",
@@ -602,7 +602,7 @@ const affLinks = [
     description: "I really love toys that are educational.  With the colors and the frogs, this seems like a really good way to learn to count.  It's recommended for 3 and up so I'll put this on the list for next year!",
     imageLink: '<a href="https://www.amazon.com/dp/B08JS2JVCX/ref=as_li_ss_il?coliid=I220CZR9PP0SHX&colid=20GG0NDI117G7&psc=1&ref_=lv_ov_lig_dp_it_im&linkCode=li2&tag=kaylaspicks-20&linkId=511233f3268974c2e42181f6f0db451f&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08JS2JVCX&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B08JS2JVCX" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
     shortLink: 'https://amzn.to/3lU5aw8',
-    tags: ['toddler','kid'],
+    tags: ['toddler'],
   },
   {
     title: "Teeball Batting Tee",
@@ -611,7 +611,83 @@ const affLinks = [
     shortLink: 'https://amzn.to/3kS5XfI',
     tags: ['toddler','kid', 'outdoor'],
   },
-
+  {
+    title: "Bitty Baby",
+    description: "I know they're expensive, but I got a bitty baby for my daughter last year because she really loves dolls.  When I was a kid I loved dolls too and it was near impossible to find clothing and accessories that fit my dolls.  I decided to get my daughter a bitty baby strickly because they make a lot of accessories for them and if she does want to put those things on her wish lists as she grows up, she'll be able to.  It's a really good quality doll and you can find sets at Costco sometimes that come with some clothing and accessories.",
+    imageLink: '<a href="https://www.amazon.com/American-Girl-Bitty-Light-Bodysuit/dp/B016BYNW76/ref=as_li_ss_il?dchild=1&keywords=bitty+baby&qid=1606064258&sr=8-1&linkCode=li2&tag=kaylaspicks-20&linkId=4df91cdc0effa3a6d392fe5d10ff58c7&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B016BYNW76&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B016BYNW76" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
+    shortLink: 'https://amzn.to/3pQXUDQ',
+    tags: ['toddler'],
+  },
+  {
+    title: "Crocs",
+    description: "Crocs are not weather appropriate for Christmas time in our area, but as I've mentioned, don't forget about the rest of the year, ESPECIALLY if your child is born near Christmas.  My daughter's birthday is in November so we have a lot of gifts coming in all at once and then we go 10 months with no true gift holidays.  I try to think ahead to the whole year when coming up with her list.  I got a pair of crocs this year and it was almost life changing.  I laugh at how silly that sounds but I really love them and I feel like I've been missing out.  These will be great for the pool, water table, or any other time she needs to slip on a shoe quickly.",
+    imageLink: '<a href="https://www.amazon.com/dp/B071FBKVFN/ref=as_li_ss_il?coliid=I2L3VB53LS7D36&colid=20GG0NDI117G7&psc=1&ref_=lv_ov_lig_dp_it_im&linkCode=li2&tag=kaylaspicks-20&linkId=c5535288c54ee371b2fde40dde31cf36&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B071FBKVFN&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B071FBKVFN" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
+    shortLink: 'https://amzn.to/3lTtHBK',
+    tags: ['toddler','kid'],
+  },
+  {
+    title: "Acorn Soup - Game",
+    description: "I put this on Noelle's wish list becuase while I haven't played it yet, I love games like this for kids.  I am really into board games and I think this is both a good transition into board games, and a fun way to learn to read instructions and follow a recipe.  The pieces look nice and colorful and I think she'll have a lot of fun with it.",
+    imageLink: '<a href="https://www.amazon.com/dp/B07CPMDQCC/ref=as_li_ss_il?coliid=I6FLX7FXLCEPK&colid=20GG0NDI117G7&psc=1&ref_=lv_ov_lig_dp_it&linkCode=li2&tag=kaylaspicks-20&linkId=d13598b3efdf954269d1558be190ed71&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07CPMDQCC&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B07CPMDQCC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
+    shortLink: 'https://amzn.to/3pTcHOc',
+    tags: ['toddler'],
+  },
+  {
+    title: "Matching Game",
+    description: "I made a matching game at home with my printer and laminator and it's been working surprisingly well.  The pieces are getting bent though and since Noelle does seem to enjoy it, I put a real memory game on her Christmas wish list.  These pieces look like they're not cardboard and I think it'll be easier to use than the current home-made version.  I am looking forward to playing this with her as she grows so she can work on her memory and match making skills.  I think this game is really important for all toddlers to play.",
+    imageLink: '<a href="https://www.amazon.com/dp/B07MFTSFW1/ref=as_li_ss_il?coliid=I277W3X7GU0656&colid=20GG0NDI117G7&psc=1&ref_=lv_ov_lig_dp_it&linkCode=li2&tag=kaylaspicks-20&linkId=4a9a9ea00d79e22d128e39ae9adb42e4&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07MFTSFW1&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B07MFTSFW1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
+    shortLink: 'https://amzn.to/394rcJ0',
+    tags: ['toddler'],
+  },
+  {
+    title: "Pickler Triangle",
+    description: "I've heard a lot of really good things about pickler triangles.  Noelle climbs on everything and it's getting dangerous.  I decided to put the pickler triangle on her wish list because if she has a designated space to climb it should be safer.  I chose this one because it can fold to be put away.  We have limited space and knowing that I will be able to flatten it to put in her closet is what we need.",
+    imageLink: '<a href="https://www.amazon.com/CASSARO-Large-Foldable-Climbing-Triangle/dp/B08KJKJ36D/ref=as_li_ss_il?dchild=1&keywords=pikler&qid=1606066354&sr=8-19&linkCode=li2&tag=kaylaspicks-20&linkId=a27454bbb84f9b762aaa5b5290e338ce&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08KJKJ36D&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B08KJKJ36D" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
+    shortLink: 'https://amzn.to/35RKKhJ',
+    tags: ['toddler'],
+  },
+  {
+    title: "Giant Connect 4",
+    description: "I've heard a lot of parents say that their kids have too many indoor toys and they want ideas for fun outdoor activities.  I saw this game at a bar once and I didn't even realize it was possible to buy them for your own yard.  This looks like so much fun and as soon as Noelle's old enough to understand the rules of connect 4 I'm going to add this to the wish list for sure.  I also have my eye on this as a Christmas gift for my cousin's kids.",
+    imageLink: '<a href="https://www.amazon.com/Giant-Row-Connect-Game-Waterproof/dp/B08658G3K2/ref=as_li_ss_il?ref_=ast_sto_dp&linkCode=li2&tag=kaylaspicks-20&linkId=11a22a0dfc920c4d70a74b08defb5f11&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08658G3K2&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B08658G3K2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
+    shortLink: 'https://amzn.to/2UMU406',
+    tags: ['kid', 'outdoor'],
+  },
+  {
+    title: "Sorry Boardgame",
+    description: "I know I have recommended a lot of board games, but I really think they're a great way to get the family together at one table without electronics.  Sorry is a really easy game, but it's still one of my favorites.  I love the suspense it creates and it's really a pretty fun game for the whole family.  It's really a must for the family game closet, I actually have 2 sets,",
+    imageLink: '<a href="https://www.amazon.com/dp/B00000IWD0/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=kaylaspicks-20&linkId=7751ba9eff3415d13e0eaf33608c3c65&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00000IWD0&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B00000IWD0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
+    shortLink: 'https://amzn.to/3l2fIIy',
+    tags: ['kid'],
+  },
+  {
+    title: "Crayola Paint Set",
+    description: "I always hear parents say their kids have too many toys and they don't know what else to get them.  Arts and crafts are always a good gift.  I know they are messy, and I know they're not for every day.  My 2 year old probably paints once a month but I think it's really important to let toddlers and kis be creative.  I really like this paint and it is washable like they say.  They have larger sets with more colors too!",
+    imageLink: '<a href="https://www.amazon.com/Crayola-Paint-Craft-Supplies-Amazon/dp/B07Z9QTB66/ref=as_li_ss_il?dchild=1&keywords=crayola+paint&qid=1606232529&s=toys-and-games&sr=1-7&linkCode=li2&tag=kaylaspicks-20&linkId=3ad89597f9c66f106f97b95054ac9459&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07Z9QTB66&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B07Z9QTB66" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
+    shortLink: 'https://amzn.to/3fulql4',
+    tags: ['toddler','kid'],
+  },
+  {
+    title: "Kid's Art Easel",
+    description: "I've talked a lot about how important I think art is for kids.  I LOVED my easel when I was a kid and I think Noelle is getting to the age where she can start using one.  I chose this one for her wish list because it looks nice, the height is adjustable, and it comes witha  white borad and black board!",
+    imageLink: '<a href="https://www.amazon.com/Hape-Winning-Wooden-Accessories-Replacement/dp/B081S3NJ17/ref=as_li_ss_il?ascsub&cv_ct_cx=toddler+easel&cv_ct_id=amzn1.osa.7a6d06f5-c241-47f1-a580-12685195dc74.ATVPDKIKX0DER.en_US&cv_ct_pg=search&cv_ct_we=asin&cv_ct_wn=osp-single-source-gl-ranking&dchild=1&keywords=toddler+easel&pd_rd_i=B081S3NJ17&pd_rd_r=13f461b5-bf59-4236-a6e6-6eb903372fd7&pd_rd_w=5JvBN&pd_rd_wg=NHz38&pf_rd_p=f78282ee-db56-4d41-99a2-17abf93837bc&pf_rd_r=0X6BQYQTJG72NWZ4J9AX&qid=1606233142&sr=1-1-d9dc7690-f7e1-44eb-ad06-aebbef559a37&th=1&linkCode=li2&tag=kaylaspicks-20&linkId=4596d8d2fe2b3b38adb706faddab02bf&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B081S3NJ17&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B081S3NJ17" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
+    shortLink: 'https://amzn.to/3l1swPk',
+    tags: ['toddler','kid'],
+  },
+  {
+    title: "Blendtec Blender",
+    description: "We recently replaced our $15 blender from college with this.  Needless to say it was like night and day.  This is really amazing for the price.  I know they make $600 blenders that might be slightly better than this, but this one has a really strong motor and makes smoothies really quickly.  We're really happy with this purchase and it might be a good upgrade for someone that's been struggling with a regular blender.",
+    imageLink: '<a href="https://www.amazon.com/Blendtec-Original-Professional-Grade-Pre-programmed-10-speeds/dp/B000GIGZXM/ref=as_li_ss_il?dchild=1&keywords=blendtec+blender&qid=1606233370&sr=8-3&linkCode=li2&tag=kaylaspicks-20&linkId=212ebe68d393d40ae1f25ee8848b2aee&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000GIGZXM&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=kaylaspicks-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=kaylaspicks-20&language=en_US&l=li2&o=1&a=B000GIGZXM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
+    shortLink: 'https://amzn.to/3kZ48Oo',
+    tags: ['adult'],
+  },
+  // {
+  //   title: "",
+  //   description: "",
+  //   imageLink: '',
+  //   shortLink: '',
+  //   tags: ['toddler','kid', 'outdoor'],
+  // },
 
 
 
